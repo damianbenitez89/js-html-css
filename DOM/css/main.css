@@ -1,0 +1,16 @@
+.poster{
+    position: relative;
+    width: 25%;
+    border: 1px solid black;
+    padding: 1rem;
+    margin-top: 1rem;
+    background-color: green;
+}
+table, th, td, tr{
+    border: 1px;
+    border-collapse: collapse;
+    background-color: brown;
+}
+table{
+    width: 80%;
+}

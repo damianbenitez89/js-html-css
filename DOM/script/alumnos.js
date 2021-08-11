@@ -1,0 +1,51 @@
+const data = [ 
+    {
+    "lastname":"Benitez",
+    "name":"Damian",
+    "grupo":1
+},
+{
+    "lastname":"Bqenitez",
+    "name":"Damdian",
+    "grupo":1
+},
+{
+    "lastname":"Bwenitez",
+    "name":"Damfian",
+    "grupo":2
+},
+{
+    "lastname":"Beenitez",
+    "name":"Damgian",
+    "grupo":1
+},
+{
+    "lastname":"Brenitez",
+    "name":"Damhtian",
+    "grupo":2
+},
+{
+    "lastname":"Byenitez",
+    "name":"Damjian",
+    "grupo":1
+},
+{
+    "lastname":"Buenitez",
+    "name":"Damian",
+    "grupo":1
+},
+{
+    "lastname":"Beiitez",
+    "name":"Damikan",
+    "grupo":2
+},
+{
+    "lastname":"Benitez",
+    "name":"Damilan",
+    "grupo":1
+},
+{
+    "lastname":"Benitez",
+    "name":"Damian",
+    "grupo":3
+}]
